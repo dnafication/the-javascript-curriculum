@@ -12,8 +12,8 @@ This curriculum heavily realies on [NodeSchool.io](http://nodeschool.io) for the
 It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[ ]` checkboxes and committing them to your own repository. 
 
 ### New to Collaborative & Open Source Programming?
-- [ ] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
-- [ ] Install a Git client,
+- [x] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
+- [x] Install a Git client,
   - Simple:
     - [GitHub for Windows](https://windows.github.com/) 
     - [GitHub for Mac](https://mac.github.com/) 
@@ -21,20 +21,20 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
     - [GitExtensions (Windows)](http://sourceforge.net/projects/gitextensions/)
     - [Tower (Mac)](http://www.git-tower.com/)
     - [Github Desktop (Mac/Windows)](https://desktop.github.com/) *In pre-release*
-- [ ] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
+- [x] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
 
 ### Pre-Requisites
-- [ ] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
+- [x] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
   - If you're running on Windows, check out these [tips](https://johnpapa.net/tips-for-running-node-and-npm-on-windows/).
-- [ ] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
-- [ ] Get a good text editor/IDE.
+- [x] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
+- [x] Get a good text editor/IDE.
   - Text Editor
     - [Atom](http://www.atom.io/)
     - [Sublime Text](http://www.sublimetext.com/3)
     - [Textmate](http://macromates.com/download)
     - [Brackets](http://brackets.io/)
   - IDE (Integrated Development Environment)
-    - [Visual Studio Code (Mac/Windows)](https://code.visualstudio.com/)
+    - [Visual Studio Code (Mac/Windows)](https://code.visualstudio.com/) ✔
     - [WebStorm (Mac/Windows)](https://www.jetbrains.com/webstorm/)
 
 ### How to Ask for Help
@@ -61,7 +61,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - Additional info https://github.com/sethvincent/javascripting
   
 ### A Re-Introduction to JavaScript
- - [ ] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+ - [x] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ### Become a Better JavaScript Developer
 - [ ] Practice Best Practices -- see section below
@@ -79,7 +79,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - `npm install -g test-anything`
 
 ### Get Started with Node.JS
- - [ ] Learn the basics of node: asynchronous i/o, http.
+ - [x] Learn the basics of node: asynchronous i/o, http.
   - `npm install -g learnyounode`
  - [ ] Advanced Node Setup
   - For Windows: https://blog.risingstack.com/node-js-windows-10-tutorial
@@ -88,7 +88,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
     - http://docs.python-guide.org/en/latest/starting/install/osx/
  - [ ] Learn a web framework
   - [ ] Hapi.JS `npm install -g makemehapi` http://hapijs.com/
-  - [ ] Express `npm install -g expressworks` http://expressjs.com/
+  - [x] Express `npm install -g expressworks` http://expressjs.com/
   
 ### Practice Best Practices
  - [ ] Learn the best practices of writing clean JavaScript code.
