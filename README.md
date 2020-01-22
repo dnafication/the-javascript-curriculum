@@ -80,15 +80,15 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 
 ### Get Started with Node.JS
  - [x] Learn the basics of node: asynchronous i/o, http.
-  - `npm install -g learnyounode`
+   - `npm install -g learnyounode`
  - [ ] Advanced Node Setup
-  - For Windows: https://blog.risingstack.com/node-js-windows-10-tutorial
-  - For Mac/Linux: 
-    - Manage multiple Node versions with n `npm install -g n`
-    - http://docs.python-guide.org/en/latest/starting/install/osx/
+   - For Windows: https://blog.risingstack.com/node-js-windows-10-tutorial
+   - For Mac/Linux: 
+     - Manage multiple Node versions with n `npm install -g n`
+     - http://docs.python-guide.org/en/latest/starting/install/osx/
  - [ ] Learn a web framework
-  - [ ] Hapi.JS `npm install -g makemehapi` http://hapijs.com/
-  - [x] Express `npm install -g expressworks` http://expressjs.com/
+   - [ ] Hapi.JS `npm install -g makemehapi` http://hapijs.com/
+   - [x] Express `npm install -g expressworks` http://expressjs.com/
   
 ### Practice Best Practices
  - [ ] Learn the best practices of writing clean JavaScript code.
